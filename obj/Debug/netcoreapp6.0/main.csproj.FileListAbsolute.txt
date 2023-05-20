@@ -1,0 +1,60 @@
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/refint/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/refint/main.dll
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Supermercado-en-c/bin/Debug/netcoreapp6.0/main
+/home/runner/Supermercado-en-c/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Supermercado-en-c/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Supermercado-en-c/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Supermercado-en-c/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/home/runner/Supermercado-en-c/obj/Debug/netcoreapp6.0/ref/main.dll
+C:\Users\57311\Desktop\Trabajo\bin\Debug\netcoreapp6.0\main.exe
+C:\Users\57311\Desktop\Trabajo\bin\Debug\netcoreapp6.0\main.deps.json
+C:\Users\57311\Desktop\Trabajo\bin\Debug\netcoreapp6.0\main.runtimeconfig.json
+C:\Users\57311\Desktop\Trabajo\bin\Debug\netcoreapp6.0\main.dll
+C:\Users\57311\Desktop\Trabajo\bin\Debug\netcoreapp6.0\main.pdb
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.csproj.AssemblyReference.cache
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.AssemblyInfoInputs.cache
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.AssemblyInfo.cs
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.csproj.CoreCompileInputs.cache
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.dll
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\refint\main.dll
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.pdb
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\main.genruntimeconfig.cache
+C:\Users\57311\Desktop\Trabajo\obj\Debug\netcoreapp6.0\ref\main.dll
+D:\Estudio\Universidad\Supermercado en C#\bin\Debug\netcoreapp6.0\main.exe
+D:\Estudio\Universidad\Supermercado en C#\bin\Debug\netcoreapp6.0\main.deps.json
+D:\Estudio\Universidad\Supermercado en C#\bin\Debug\netcoreapp6.0\main.runtimeconfig.json
+D:\Estudio\Universidad\Supermercado en C#\bin\Debug\netcoreapp6.0\main.dll
+D:\Estudio\Universidad\Supermercado en C#\bin\Debug\netcoreapp6.0\main.pdb
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.csproj.AssemblyReference.cache
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.AssemblyInfoInputs.cache
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.AssemblyInfo.cs
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.csproj.CoreCompileInputs.cache
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.dll
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\refint\main.dll
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.pdb
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\main.genruntimeconfig.cache
+D:\Estudio\Universidad\Supermercado en C#\obj\Debug\netcoreapp6.0\ref\main.dll
